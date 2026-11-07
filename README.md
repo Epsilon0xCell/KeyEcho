@@ -1,6 +1,8 @@
-![KeyEcho Logo](https://i.imgur.com/3hb0T1H.png)
+![KeyEcho banner: a row of exposed keyboard switches with cream housings and red stems on a green circuit board over a warm desk, ripple rings travelling outward from the middle switch like sound, shallow depth of field](banner.png)
 
 # KeyEcho
+
+<p align="center"><img src="logo.png" alt="KeyEcho logo: one keyboard switch photographed from above at macro range, its red stem exposed under a hovering cream keycap, faint ripple rings spreading from the stem like sound, warm brown desk" width="200"></p>
 
 > Listen to your keyboard typing and echo pleasant sounds
 
